@@ -9,4 +9,4 @@ numpy
 pandas
 pillow
 scikit-learn
-fpdf2
+reportlab
