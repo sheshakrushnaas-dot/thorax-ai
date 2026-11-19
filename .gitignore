@@ -1,0 +1,9 @@
+# filepath: thorax-ai/.gitignore
+.venv/
+venv/
+thorax_env/
+__pycache__/
+*.py[cod]
+data/
+.DS_Store
+Thumbs.db

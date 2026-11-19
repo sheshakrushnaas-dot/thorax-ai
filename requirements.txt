@@ -1,0 +1,12 @@
+# filepath: thorax-ai/requirements.txt
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+torchvision
+streamlit
+opencv-python-headless
+albumentations
+numpy
+pandas
+pillow
+scikit-learn
+fpdf2
